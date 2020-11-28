@@ -1,7 +1,7 @@
 # LWC Lodash
 
 [lwc-lodash](https://github.com/exiahuang/lwc-lodash) is lodash for salesforce lwc developer.
-![lodash](https://lodash.com/assets/img/lodash.svg)
+<img src="https://lodash.com/assets/img/lodash.svg" alt="lodash" width="200" height="235" />
 
 ## deploy lwc-lodash
 
